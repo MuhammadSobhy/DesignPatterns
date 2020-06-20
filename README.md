@@ -6,3 +6,11 @@ The idea is to give the class a private constructor so the constructor cannot be
 There are two components to create an object of this class without a public constructor:
 1. Declare a private class variable to refer to the one instance of your Singleton class.
 2. Create a public method in the class that will create an instance of this class, but only if an instance does exist already.
+
+##### 2- Factory Method
+The intent is to define an interface for creating objects, but let the subclasses decide which class to instantiate.
+
+
+
+### Sources
+Design Patterns on [Coursera](https://www.coursera.org/learn/design-patterns/).
