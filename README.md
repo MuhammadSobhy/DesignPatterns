@@ -15,7 +15,7 @@ The intent is to define an interface for creating objects, but let the subclasse
 ### Structural Pattern
 Design patterns that describe how objects are connected to one another.
 ##### 1- Facade Pattern
-Provide a single simplified interface for client classes to interact with the subsystem.
+Provide a single simplified interface for client classes to interact with the subsystem(The client should not know anything about the subsystem classes).
 
 
 ### Sources
