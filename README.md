@@ -17,8 +17,11 @@ Design patterns that describe how objects are connected to one another.
 ##### 1- Facade Pattern
 Provide a single simplified interface for client classes to interact with the subsystem(The client should not know anything about the subsystem classes).
 
-##### 1- Adapter Pattern
+##### 2- Adapter Pattern
 To help facilitate comunication between two existing systems by providing a compatible interface.
+
+##### 3- Composite Pattern
+To compose nested structures of objects and to deal with the classes for these objects uniformly.
 
 ### Sources
 Design Patterns on [Coursera](https://www.coursera.org/learn/design-patterns/).
