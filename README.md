@@ -23,5 +23,12 @@ To help facilitate comunication between two existing systems by providing a comp
 ##### 3- Composite Pattern
 To compose nested structures of objects and to deal with the classes for these objects uniformly.
 
+##### 4- Proxy Pattern
+The Proxy acts as a simplified or lightweight version of the original object and still able to accomplish the same tasks, but may delegate requests to the original object to achieve them.
+
+##### 5- Decorator Pattern
+Uses aggregation to combine behaviors at runtime.
+
+
 ### Sources
 Design Patterns on [Coursera](https://www.coursera.org/learn/design-patterns/).
