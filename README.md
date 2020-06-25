@@ -15,7 +15,7 @@ The intent is to define an interface for creating objects, but let the subclasse
 ### Structural Pattern
 Design patterns that describe how objects are connected to one another.
 ##### 1- Facade Pattern
-Provide a single simplified interface for client classes to interact with the subsystem(The client should not know anything about the subsystem classes).
+Provides a single simplified interface for client classes to interact with the subsystem(The client should not know anything about the subsystem classes).
 
 ##### 2- Adapter Pattern
 To help facilitate comunication between two existing systems by providing a compatible interface.
@@ -29,6 +29,16 @@ The Proxy acts as a simplified or lightweight version of the original object and
 ##### 5- Decorator Pattern
 Uses aggregation to combine behaviors at runtime.
 
+### Behavioural Pattern
+Design patterns that describe how objects are connected to one another.
+##### 1- Template Method Pattern
+Defines an algorithm's steps generally and deferring the implementation of some steps to subclasses.
+
+##### 2- Chain of Responsibility Pattern
+A chain of objects that are responsible for handling requests. A series of handler objects that are linked together, These handlers have methods that are written to handle specific requests.
+
+##### 3- State Pattern
+When you need to change the behavior of an object based upon the state that it's in at run-time.
 
 ### Sources
 Design Patterns on [Coursera](https://www.coursera.org/learn/design-patterns/).
